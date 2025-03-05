@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ojayvincent-bit
+- 👋 Hi, I’m @Vincent-bit
 - 👀 I’m interested in web development and python
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on python and android development
-- 📫 How to reach me : email - ceh.vincent@gmail.com
+- 📫 How to reach me : email - ojiambovincent17@gmail.com
 
 <!---
 Ojayvincent-bit/Ojayvincent-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
